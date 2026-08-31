@@ -2,7 +2,7 @@
 
 A fully autonomous, **completely free** AI coding agent that lives in your terminal, powered by DeepSeek's web interface. Enhanced with **folder isolation**, **manual approval prompts**, **Deep Think (R1) mode**, and **persistent per-project sessions**.
 
-> **Built on top of [deepseek-browser-agent](https://github.com/mushan0x0/deepseek-browser-agent)** – all credits to the original author. This repo contains my customizations to make it production-ready, secure, and developer-friendly.
+> Built on top of **deepseek-browser-agent** – all credits to the original author. This repo contains my customizations to make it production-ready, secure, and developer-friendly.
 
 ---
 
